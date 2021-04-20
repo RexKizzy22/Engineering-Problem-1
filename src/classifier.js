@@ -87,7 +87,6 @@ const validAgeDifference = (student, groups) => {
           grouped.push([student]);
         }
     }
-
     return grouped;
 
   }

@@ -12,6 +12,7 @@
   cleanPile.sort((a, b) => a - b);
 
   for (let sock of cleanPile) {
+    
       if (cleanBucket.length == 0) {
         cleanBucket.push(sock);
       } else if (cleanBucket.length > 0) {
