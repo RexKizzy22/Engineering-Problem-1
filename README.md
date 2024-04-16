@@ -21,4 +21,5 @@ You can elide the `--watch` flag to just run tests
 If all tests pass, you have successfully solved the questions.
 
 The solution to the classifier problem should go in `src/classifier.js`
+
 The solution to the laundry problem should go in `src/laundry.js`
