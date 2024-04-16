@@ -16,13 +16,6 @@ yarn
 yarn jest --watch
 ```
 
-Or if you use npm
-
-```bash
-npm install
-npm test -- --watch
-```
-
 You can elide the `--watch` flag to just run tests
 
 If all tests pass, you have successfully solved the questions.
