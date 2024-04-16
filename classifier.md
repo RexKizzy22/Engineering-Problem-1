@@ -8,6 +8,7 @@ Write a program that classifies the students into groups where
 2. No student is in more than 1 group.
 3. The difference in years of the ages of student in any particular group is not more than 5.
 
+
 `Your solution should include in its output`
 
 1. The groups: with the names and age of its members.
